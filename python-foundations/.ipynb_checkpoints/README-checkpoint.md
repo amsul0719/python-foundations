@@ -62,7 +62,7 @@ Each week builds incrementally from foundational Python skills to structured scr
 - Logical operators (`and`, `or`)
 - `for` loops
 - Writing reusable functions
-- Constructing rule-based compound prioritization pipelines
+- Building mini screening pipelines
 
 **Biological context:** Compound advancement decisions depend on predefined criteria such as effect size and toxicity. This week formalizes those rules into reproducible Python logic.
 
